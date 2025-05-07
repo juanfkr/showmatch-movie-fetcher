@@ -1,7 +1,7 @@
 # 🎬 ShowMatch | Buscador de Filmes
 
 <p align="center">
-  <img src="./src/assets/banner.png" alt="Banner do Projeto">
+  ![banner](https://github.com/user-attachments/assets/b94cbf37-60e5-44d3-8142-856be516d9b5)
 </p>
 
 Este projeto Java consulta a [OMDb API](https://www.omdbapi.com/) para buscar informações 
